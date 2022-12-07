@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm JuanDi Here</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , JuanDi Here</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -7,6 +7,8 @@
 <picture> <img align="right" src="img/dev_img.svg" width = 250px></picture>
 
 <br>
+
+<p>Hi, I'm Juan Diego, a development student, a real lover of programming who never stops learning, I like javascript and I'm very interested in data science, movies, videogames and planning my own projects, I love music and I am always looking for opportunities to increase my curiosity.</p>
 
 - A passionate Full-Stack developer
 - A real lover of web development
@@ -39,7 +41,6 @@
 
 <br>
 
-    
 - **Back-End Development**:
 
   <img src="img/node.svg" style="width: 50px; margin-right: 1rem">
@@ -56,8 +57,6 @@
   <img src="img/sqlserver.svg" style="width: 50px; margin-right: 1rem">
   <img src="img/mongo.svg" style="width: 25px; margin-right: 1rem">
 
-  
-
 <br>
 
 - **Softwares and Tools**:
@@ -73,12 +72,7 @@
 <br>
 <br>
 
-
-
-
 ---
-
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -94,42 +88,13 @@
 </div>
 
 <br>
-<br>
-<br>
 
 ---
 
 <br>
-<br>
 
 ## <b> Let's Connect..!</b>
 
-<br>
-<div align='left'>
+<a href="https://github.com/juandixdd"><img src="img/github.svg" style="width: 50px; margin-right: 1rem"></a><a href="mailto:juan.d.arteaga.p@gmail.com"><img src="img/gmail.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://www.linkedin.com/in/juan-diego-arteaga-perez-1a3269212/"><img src="img/linkedin.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://twitter.com/JuanDi_Arteaga"><img src="img/twitter.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://www.instagram.com/juandi.jpg/"><img src="img/ig.svg" style="width: 50px; margin-right: 1rem"></a>
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/juan-diego-arteaga-perez-1a3269212/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Juan Diego-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/JuanDi_Arteaga" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  JuanDi_Arteaga-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:juan.d.arteaga.p@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  juan.d.arteaga.p@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
