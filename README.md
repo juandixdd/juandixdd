@@ -95,6 +95,8 @@
 
 ## <b> Let's Connect..!</b>
 
+<div align="center">
 <a href="https://github.com/juandixdd"><img src="img/github.svg" style="width: 50px; margin-right: 1rem"></a><a href="mailto:juan.d.arteaga.p@gmail.com"><img src="img/gmail.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://www.linkedin.com/in/juan-diego-arteaga-perez-1a3269212/"><img src="img/linkedin.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://twitter.com/JuanDi_Arteaga"><img src="img/twitter.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://www.instagram.com/juandi.jpg/"><img src="img/ig.svg" style="width: 50px; margin-right: 1rem"></a>
+</div>
 
 </div>
