@@ -25,46 +25,46 @@
 
 - **Languages**:
 
-  <img src="img/javascript.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/python.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/java.svg" style="width: 50px; margin-right: 1rem">
+  <img src="img/javascript.svg" width="50">
+  <img src="img/python.svg" width="50">
+  <img src="img/java.svg" width="50">
 
 <br>   
     
 - **Front-End Development**:
 
-  <img src="img/html.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/css.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/javascript.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/angular.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/react.svg" style="width: 50px; margin-right: 1rem">
+  <img src="img/html.svg" width="50">
+  <img src="img/css.svg" width="50">
+  <img src="img/javascript.svg" width="50">
+  <img src="img/angular.svg" width="50">
+  <img src="img/react.svg" width="50">
 
 <br>
 
 - **Back-End Development**:
 
-  <img src="img/node.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/springboot.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/nest.svg" style="width: 50px; margin-right: 1rem">
+  <img src="img/node.svg" width="50">
+  <img src="img/springboot.svg" width="50">
+  <img src="img/nest.svg" width="50">
 
 <br>
 
 - **Databases**:
 
-  <img src="img/mysql.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/oracle.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/postgre.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/sqlserver.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/mongo.svg" style="width: 25px; margin-right: 1rem">
+  <img src="img/mysql.svg" width="50">
+  <img src="img/oracle.svg" width="50">
+  <img src="img/postgre.svg" width="50">
+  <img src="img/sqlserver.svg" width="50">
+  <img src="img/mongo.svg" width="25">
 
 <br>
 
 - **Softwares and Tools**:
 
-  <img src="img/git.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/github.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/gitlab.svg" style="width: 50px; margin-right: 1rem">
-  <img src="img/visual-studio.svg" style="width: 50px; margin-right: 1rem">
+  <img src="img/git.svg" width="50">
+  <img src="img/github.svg" width="50">
+  <img src="img/gitlab.svg" width="50">
+  <img src="img/visual-studio.svg" width="50">
 
 </p>
 
@@ -96,7 +96,7 @@
 ## <b> Let's Connect..!</b>
 
 <div align="center">
-<a href="https://github.com/juandixdd"><img src="img/github.svg" style="width: 50px; margin-right: 1rem"></a><a href="mailto:juan.d.arteaga.p@gmail.com"><img src="img/gmail.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://www.linkedin.com/in/juan-diego-arteaga-perez-1a3269212/"><img src="img/linkedin.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://twitter.com/JuanDi_Arteaga"><img src="img/twitter.svg" style="width: 50px; margin-right: 1rem"></a><a href="https://www.instagram.com/juandi.jpg/"><img src="img/ig.svg" style="width: 50px; margin-right: 1rem"></a>
+<a href="https://github.com/juandixdd"><img src="img/github.svg" width="50"></a><a href="mailto:juan.d.arteaga.p@gmail.com"><img src="img/gmail.svg" width="50"></a><a href="https://www.linkedin.com/in/juan-diego-arteaga-perez-1a3269212/"><img src="img/linkedin.svg" width="50"></a><a href="https://twitter.com/JuanDi_Arteaga"><img src="img/twitter.svg" width="50"></a><a href="https://www.instagram.com/juandi.jpg/"><img src="img/ig.svg" width="50"></a>
 </div>
 
 </div>
